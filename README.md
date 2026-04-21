@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ТВОЙ_НИК/python-contact-book.git
+git clone https://github.com/cbaran00ff/python-contact_book.git
 
 2. Запустите приложение:
 python main.py
